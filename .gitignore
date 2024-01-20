@@ -1,0 +1,19 @@
+build/
+
+# Carpeta de distribución
+dist/
+
+# Configuración específica de NetBeans
+nbproject/
+
+# Carpeta de resultados de pruebas (puede variar según la configuración)
+test/
+
+# Archivo generado por el sistema de construcción Ant
+build.xml
+
+# Archivo de manifiesto de JAR (si no es necesario)
+manifest.mf
+
+# Archivo SQL (si no es necesario compartirlo)
+# relojeria.sql
